@@ -1,9 +1,5 @@
 # Hey, I'm Marco! 👋
 
-### Marco Albuquerque
-![Followers](https://img.shields.io/github/followers/marcoalb20?style=social)
-![Profile Views](https://komarev.com/ghpvc/?username=marcoalb20&color=blue&style=flat)
-
 - 🧑‍💻 Software Developer Junior from **Lima, Perú 🇵🇪**
 - 💼 Full Stack Developer (Freelance) at **Allype**
 - 🎓 Técnico en Diseño y Desarrollo de Software – **Instituto Certus**
@@ -25,8 +21,6 @@
 ## 📊 GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marcoalb20&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
-
-![Marco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcoalb20&show_icons=true&theme=gruvbox&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcoalb20&layout=compact&theme=gruvbox&hide_border=true)
 
